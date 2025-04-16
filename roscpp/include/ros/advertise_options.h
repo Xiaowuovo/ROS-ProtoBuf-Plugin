@@ -46,7 +46,7 @@ struct ROSCPP_DECL AdvertiseOptions
   {
   }
 
-  /*
+  /**
    * \brief Constructor
    * \param _topic Topic to publish on
    * \param _queue_size Maximum number of outgoing messages to be queued for delivery to subscribers
